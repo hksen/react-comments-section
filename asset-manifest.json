@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-comments-section/static/css/main.37a5ace2.css",
+    "main.js": "/react-comments-section/static/js/main.a4cfcf1f.js",
+    "static/js/787.ed835b24.chunk.js": "/react-comments-section/static/js/787.ed835b24.chunk.js",
+    "static/media/image-amyrobson.webp": "/react-comments-section/static/media/image-amyrobson.974bbf3c9ffb709f30a0.webp",
+    "static/media/image-juliusomo.webp": "/react-comments-section/static/media/image-juliusomo.595ca29b9049f4c6ce66.webp",
+    "static/media/image-maxblagun.webp": "/react-comments-section/static/media/image-maxblagun.e423f15841d76f3a5361.webp",
+    "static/media/image-ramsesmiron.webp": "/react-comments-section/static/media/image-ramsesmiron.62a67681169b8dcdc378.webp",
+    "index.html": "/react-comments-section/index.html",
+    "static/media/icon-plus.svg": "/react-comments-section/static/media/icon-plus.0037a825a55096577941.svg",
+    "static/media/icon-edit.svg": "/react-comments-section/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
+    "static/media/icon-reply.svg": "/react-comments-section/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-minus.svg": "/react-comments-section/static/media/icon-minus.4aa6933cb1575b3c54fa.svg",
+    "static/media/icon-delete.svg": "/react-comments-section/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.37a5ace2.css.map": "/react-comments-section/static/css/main.37a5ace2.css.map",
+    "main.a4cfcf1f.js.map": "/react-comments-section/static/js/main.a4cfcf1f.js.map",
+    "787.ed835b24.chunk.js.map": "/react-comments-section/static/js/787.ed835b24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a5ace2.css",
+    "static/js/main.a4cfcf1f.js"
+  ]
+}
