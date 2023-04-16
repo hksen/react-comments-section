@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-comments-section/static/css/main.37a5ace2.css",
+    "main.css": "/react-comments-section/static/css/main.74b5c2a7.css",
     "main.js": "/react-comments-section/static/js/main.a4cfcf1f.js",
     "static/js/787.ed835b24.chunk.js": "/react-comments-section/static/js/787.ed835b24.chunk.js",
     "static/media/image-amyrobson.webp": "/react-comments-section/static/media/image-amyrobson.974bbf3c9ffb709f30a0.webp",
@@ -13,12 +13,12 @@
     "static/media/icon-reply.svg": "/react-comments-section/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
     "static/media/icon-minus.svg": "/react-comments-section/static/media/icon-minus.4aa6933cb1575b3c54fa.svg",
     "static/media/icon-delete.svg": "/react-comments-section/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
-    "main.37a5ace2.css.map": "/react-comments-section/static/css/main.37a5ace2.css.map",
+    "main.74b5c2a7.css.map": "/react-comments-section/static/css/main.74b5c2a7.css.map",
     "main.a4cfcf1f.js.map": "/react-comments-section/static/js/main.a4cfcf1f.js.map",
     "787.ed835b24.chunk.js.map": "/react-comments-section/static/js/787.ed835b24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a5ace2.css",
+    "static/css/main.74b5c2a7.css",
     "static/js/main.a4cfcf1f.js"
   ]
 }
