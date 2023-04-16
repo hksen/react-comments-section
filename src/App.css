@@ -20,7 +20,7 @@
 .wrapper {
   font-family: 'Rubik', sans-serif;
   width: 100%;
-  background-color: var(--Light-gray);
+  background-color: #F5F6FA;
   display: flex;
   justify-content: center;
   position: relative;
@@ -101,7 +101,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: var(--Light-gray);
+  background-color: #F5F6FA;
   max-height: 100px;
   grid-area: score;
   min-width: 20px;
@@ -158,7 +158,7 @@
 
 h3, h4 {
   margin: 0;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1em;
 }
 
@@ -237,7 +237,7 @@ p {
   min-height: 79px;
   max-width: 464px;
   width: 100%;
-  border: 1px solid hsl(211, 10%, 45%, 40%);
+  border: 1px solid hsl(211, 10%, 45%, 20%);
   border-radius: 10px;
   /*padding-bottom: 65px;*/
   padding-right: 20px;
@@ -281,7 +281,7 @@ p {
   cursor: pointer;
   color: #fff;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1em;
   transition: opacity 0.2s;
 }
